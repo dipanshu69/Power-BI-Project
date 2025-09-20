@@ -1,7 +1,7 @@
 # Man T-Shirts Data Analysis Dashboard
 
 ### Dashboard Link :
-*(Add your Publish to Web link or GitHub PBIX download link here)*
+(https://app.powerbi.com/Redirect?action=OpenApp&appId=ae5cd900-b3a1-4951-884f-9fad19471ccc&ctid=bdc4f541-8f51-40f6-876b-1831a01b93fe&experience=power-bi)
 
 ## Problem Statement
 
