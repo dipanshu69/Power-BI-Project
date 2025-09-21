@@ -29,7 +29,7 @@ It allows decision-makers to identify top-performing brands, evaluate discount s
 
 ### Snapshots
 
-(Add screenshots of key pages here – e.g., Overview Page, Top 5 Brand Visuals, Bottom 5 Profit Chart.)
+<img width="1354" height="590" alt="Image" src="https://github.com/user-attachments/assets/c18bf27d-b1e0-47db-9520-373a805974af" />
 
 ### Insights
 
