@@ -1,7 +1,7 @@
 # Man T-Shirts Data Analysis Dashboard
 
 ### Dashboard Link :
-(https://app.powerbi.com/Redirect?action=OpenApp&appId=ae5cd900-b3a1-4951-884f-9fad19471ccc&ctid=bdc4f541-8f51-40f6-876b-1831a01b93fe&experience=power-bi)
+https://app.powerbi.com/reportEmbed?reportId=83fe78ae-0350-4280-bc38-a0d299e2d14c&appId=ae5cd900-b3a1-4951-884f-9fad19471ccc&autoAuth=true&ctid=bdc4f541-8f51-40f6-876b-1831a01b93fe
 
 ## Problem Statement
 
